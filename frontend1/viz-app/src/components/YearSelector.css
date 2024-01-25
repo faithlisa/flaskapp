@@ -1,0 +1,11 @@
+.year-selector-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.year-selector {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
